@@ -1,0 +1,119 @@
+
+        body{
+            margin: 0px 100px 0px 100px;
+            padding: 0;
+            /* margin: 0; */
+            background: url("/img/OIP.jpg")no-repeat;
+            background-size: cover;
+          }
+          #main-menu{
+              background-color: aqua;
+              margin: 5px ;
+              padding: 10px;
+          }
+  
+          #logo-main span{
+              margin: 10px !important;
+              line-height: 12pt !important;
+              width: 80% !important;
+          }
+         
+  
+          .dt{
+               /* float: left; */
+              display: inline;
+          }
+  
+           .row{
+           
+                  padding:10px; 
+                   text-align: center;
+          }
+          .nav_menu{
+             
+                  overflow: hidden;
+          }
+          .nav_menu a{
+              float: left;
+                  display:block;
+                  color:whitesmoke;
+                  text-align: center;
+                  padding: 14px 16px;
+                  text-decoration: none;
+          }
+          .nav_menu a:hover
+              {
+                  background-color:orange;
+                  color:white;
+              }
+              .slides{
+              padding: 10px;
+              background-color: palegoldenrod;
+                /* width: 1755px;
+               transform: translate3d(-585px, 0px, 0px); */
+             }
+             .slide{
+              width: 585px;
+             }
+             #marq{
+              background-color: orange;
+             }
+            
+          
+  
+            .msg {
+  
+              background-color: #8E8478;
+      letter-spacing: 0.5pt;
+      font-weight: normal !important;
+      color: #fff;
+      font-family: Arial,Helvetica,sans-serif;
+      font-size: 13px;
+      padding: 10px 0px;
+      
+      text-align: center;
+      width: 100%;
+      float: left;
+            }
+  
+            .month{
+              background-color: paleturquoise;
+             padding: 30px;
+              text-align: left;
+              border-radius: 20px;
+            }
+  
+            .month h4{
+              margin-bottom: 17px;
+              font-size: 16px;
+  
+            }
+            .month p,div{
+              font-size: 14px;
+            }
+  
+             .col-md-6{
+              font-size: 20px
+            }
+            .about{
+              margin: 10px;
+              border: #8E8478 solid 3px;
+              padding: 70px;
+            }
+  
+            .about .row{
+              padding: 10px;
+              text-align: left;
+            }
+  
+            .row_about .col-md-9{
+              padding: 50px;
+            }
+      .extra{
+        background-color: whitesmoke;
+        background-image: url("\img\head-banner.jpg");
+      }
+  
+      #marque{
+        color: white;
+      }
